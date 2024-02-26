@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutuja Nikam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer with expertise in front-end technologies like HTML,CSS and back-end technologies like Java,JDBC,JSP.</h3>
 
 - 🌱 I’m currently learning **Java FullStack**
 
-- 💬 Ask me about **Java,JDBC**
+- 💬 Ask me about **Java,JDBC,Sevlet,JSP**
 
 - 📫 How to reach me **rutujanikam2501@gmail.com**
 
