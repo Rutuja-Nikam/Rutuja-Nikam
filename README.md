@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Rutuja-Nikam
+-    passionate full stack developer with experties in front-end technologies like HTML,CSS and back-end technologies like Java,JDBC,Servlet,JSP. 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java FullStack
 - 💞️ I’m looking to collaborate on Project
